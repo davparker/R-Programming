@@ -1,5 +1,5 @@
 ## create required function for Programming Assignment 3
-## David Parker 2014-06-27
+## David Parker 2018-12-14
 ## Function corr, class assignment 
 ##
 ## load prev assignment's functions
